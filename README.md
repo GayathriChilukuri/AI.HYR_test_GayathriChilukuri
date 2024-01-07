@@ -12,6 +12,6 @@ pip install PyPDF2<br>
 2. Then, sent the extracted text along with the prompt message to the Openai API <br>
 3. Printed the response from the API in the terminal <br>
 4. This response will have the required details: Candidate’s name, Candidate’s email, Candidate’s phone number, Candidate’s work experience
-<br><br><br>
+<br><br>
 
 #### Gayathri Chilukuri
