@@ -14,7 +14,7 @@ pip install PyPDF2<br>
 4. This response will have the required details: Candidate’s name, Candidate’s email, Candidate’s phone number, Candidate’s work experience <br>
 
 ## Challenges<br>
-"-"
+--
 <br><br>
 
 #### Gayathri Chilukuri
