@@ -8,4 +8,7 @@ pip install PyPDF2<br>
 3. run main.py to extract and print the specified details of the candidate<br>
 
 ## Approach<br>
-   
+1. Firstly, I extracted the text from the pdf file using the PyPDF2 library <br>
+2. Then, sent the extracted text along with the prompt message to the Openai API <br>
+3. Printed the response from the API in the terminal <br>
+4. This response will have the required details: Candidate’s name, Candidate’s email, Candidate’s phone number, Candidate’s work experience
